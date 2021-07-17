@@ -42,5 +42,5 @@ npm start
 
 👤 **Antonio Lopez**
 
-- Website: https://goofy-mclean-acdc90.netlify.app/
+- Website: [Antonio Lopez](https://www.antoniolopez.me/)
 - Github: [@antonio-lopez](https://github.com/antonio-lopez)
