@@ -6,7 +6,7 @@
 
 ### 🏠 [Homepage](https://antonio-netflix-clone.netlify.app/)
 
-![screenshot](https://raw.githubusercontent.com/antonio-lopez/react-netflix-clone/main/uploads/netflix-clone-screenshot.png?token=AIWOL57CBGT54KIB2ESRYMTBACDAY)
+![screenshot](/uploads/netflix-clone-screenshot.png?raw=true)
 
 ## Prerequisites
 
